@@ -1,7 +1,7 @@
 Integrated Subscribers DataBase (ISDB)
 ======================================
 
-This software has been developed by myself @ 2000 and practically used @ *Zhitomir* affiliate of *Utel* company, *Ukraine*, during quite a long time.
+This software has been developed by myself @ 2000 (at that sweet time it was used a manually compiled [Kaffe Virtual Machine](https://github.com/kaffe/kaffe) because no *Sun* *Java* for *Digital*'s *Alpha Server* yet!) and practically used @ *Zhitomir* affiliate of *Utel* company, *Ukraine*, during quite a long time.
 
 Conversion from some *Java* source files has been executed as below:
 
